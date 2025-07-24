@@ -6,7 +6,6 @@
 
 SV Annotation and Filtering Analysis Following Gong et al. 2025 Nature Communications ([https://www.nature.com/articles/s41467-025-57312-9](https://www.nature.com/articles/s41467-025-57312-9))
 
-![Workflow Diagram](https://github.com/user-attachments/assets/bb94f531-c9e5-4df5-8aff-477a2926ff72)
 
 Complete workflow from SV VCF to potentially pathogenic SVs using SV VCF and protein-coding genes only.
 
